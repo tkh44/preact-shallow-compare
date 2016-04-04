@@ -30,10 +30,10 @@
     "url": "git+https://github.com/tkh44/preact-shallow-compare.git"
   },
   "keywords": [
-    "react-component",
-    "grd",
-    "flexbox",
-    "react",
-    "react flexbx"
+    "preact",
+    "preact-compat",
+    "shallow",
+    "shallowCompare",
+    "preact shallowCompare"
   ]
 }
