@@ -5,7 +5,7 @@
 shallowCompare for preact. react-shallow-compare detached from React.
 
 ##Example
-```javscript
+```javascript
 import { h, Component } from 'preact';
 import shallowCompare from 'preact-shallow-compare';
 
