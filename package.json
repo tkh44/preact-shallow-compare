@@ -1,7 +1,7 @@
 {
   "name": "preact-shallow-compare",
   "amdName": "shallowCompare",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "shallowCompare for preact. react-shallow-compare detached from React.",
   "main": "dist/preact-shallow-compare.js",
   "minified:main": "dist/preact-shallow-compare.min.js",
