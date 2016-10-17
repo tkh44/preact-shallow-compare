@@ -7,9 +7,9 @@
   "minified:main": "dist/preact-shallow-compare.min.js",
   "jsnext:main": "src/index.js",
   "files": [
-    "es6",
-    "lib",
-    "umd"
+    "src",
+    "test",
+    "dist"
   ],
   "scripts": {
     "build": "npm-run-all transpile optimize minify",
