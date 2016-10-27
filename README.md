@@ -1,6 +1,8 @@
 # preact-shallow-compare
 
-[![npm package][npm-badge]][npm]
+#Deprecated: Please use https://github.com/tkh44/shallow-compare instead
+
+[![npm version](https://badge.fury.io/js/preact-shallow-compare.svg)](https://badge.fury.io/js/preact-shallow-compare)
 
 shallowCompare for preact. react-shallow-compare detached from React.
 
@@ -31,6 +33,3 @@ class Foo extends Component {
 
 }
 ```
-
-[npm-badge]: https://img.shields.io/npm/v/npm-package.svg?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
